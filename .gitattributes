@@ -1,1 +1,4 @@
 *.astro linguist-language=Astro
+git add .gitattributes
+git commit -m "Fix: force GitHub to detect Astro"
+git push
